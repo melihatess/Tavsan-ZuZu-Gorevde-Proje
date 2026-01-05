@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pygame](https://img.shields.io/badge/Pygame-2.x-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-**İlkokul öğrencileri için algoritmik düşünme ve matematik becerilerini geliştirmeye yönelik Python & Pygame tabanlı eğitsel oyun.**
+**İlkokul 4.sınıf öğrencileri için algoritmik düşünme ve matematik becerilerini geliştirmeye yönelik Python & Pygame tabanlı eğitsel oyun.**
 
 ---
 
